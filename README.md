@@ -1,5 +1,6 @@
 # Prolog-Flix
 
+
 ## Introduction
 
 This project was developped in 2021 to logically show suggestions for films and series, information on new releases as well as customer loyalty information and a satisfaction survey.
@@ -10,11 +11,11 @@ Prolog was created in 1972 at the University of Marseille, France and has become
 
 ## Install
 
-SWI-Prolog offers a comprehensive free Prolog environment, make the download: [SWI-Prolog](https://www.swi-prolog.org/)
+SWI-Prolog offers a comprehensive free Prolog environment, make the download here: [SWI-Prolog](https://www.swi-prolog.org/)
 
 ## Development
 
-The program was developped using SWI-Porlog, where it was tested too.
+The program was developped using SWI-Prolog, where it was tested too.
 
 ## Authors
 
